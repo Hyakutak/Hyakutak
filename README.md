@@ -1,16 +1,30 @@
-### Hi there 👋
+### Ola! Eu sou o Pedro Cruz
 
-<!--
-**Hyakutak/Hyakutak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Procurando oportunidade em Desenvolvomento Front-End
+- 🌱 Estudando JavaScript e seus frameworks
+<div>
+  <a href="https://github.com/Hyakutak">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hyakutak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyakutak&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img aling="center" alt="ICON-HTML" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img aling="center" alt="ICON-CSS" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img aling="center" alt="ICON-JavaScript" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img aling="center" alt="ICON-React" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img aling="center" alt="ICON-React" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+</div>
+  
+##
+  
+<div>
+  <a href="mailto:santahelia.pedro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/pedro-cruz-a51b41191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>  
+</div>
+  
+  
+<div>
+  
+  ![Snake animation](https://github.com/Hyakutak/Hyakutak/blob/output/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
