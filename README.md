@@ -5,7 +5,7 @@
 <div style="display: inline_block">
   <a href="https://github.com/Hyakutak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hyakutak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyakutak&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" style="margin-left: 5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyakutak&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img aling="center" alt="ICON-HTML" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
