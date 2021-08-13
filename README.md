@@ -1,7 +1,8 @@
-### Ola! Eu sou o Pedro Cruz
+### Hi there 👋, My name is Pedro Cruz
 
-- 🔭 Procurando oportunidade em Desenvolvomento Front-End
-- 🌱 Estudando JavaScript e seus frameworks
+- 😄 I'm a developer, and this is my github.
+- 🔭 Search opportunity in developer Front-End.
+- 🌱 Study JavaScript and your frameworks.
 <div style="display: inline_block">
   <a href="https://github.com/Hyakutak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hyakutak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
