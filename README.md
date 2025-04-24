@@ -1,8 +1,4 @@
 ### Hi there 👋, My name is Pedro Cruz
-
-- 😄 I'm a developer, and this is my github.
-- 🔭 Search opportunity in developer Front-End.
-- 🌱 Study JavaScript and your frameworks.
 <div style="display: inline_block">
   <a href="https://github.com/Hyakutak">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hyakutak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,6 +10,7 @@
   <img aling="center" alt="ICON-JavaScript" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img aling="center" alt="ICON-React" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img aling="center" alt="ICON-NODEJS" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
 </div>
   
 ##
